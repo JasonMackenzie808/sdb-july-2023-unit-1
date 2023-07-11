@@ -18,3 +18,8 @@ use the promptt `git commit -m 'first commit`
 ## To see a log of your console
 
 use the command `git log --oneline`
+
+## To push repo to GitHub
+
+After you have committed your code you can use the following command:
+`git push`
